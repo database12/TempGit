@@ -1,0 +1,2 @@
+# TempGit
+Just empty git
